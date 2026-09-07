@@ -1,5 +1,12 @@
-Integrantes
-1. Samuel Dussan Fonseca / Rol 1
+Integrantes:
+
+1. Samuel Dussán Fonseca / Rol 1
+Como líder del proyecto,verifiqué que se respondiera a la entidad pública y 
+lideré la traducción de los resultados en recomendaciones para el
+gobierno. Creé la carpeta "Preguntas" para subir las respuestas de todo el taller,
+cubriendo anomalías de temperatura, estructuré y redacté el documento
+de als preguntas del informe garantizando la coherencia entre datos y resultados.
+
 2. Joan Santiago Cortes Gomez / Rol 2
 Tarea Realizada:
 Crear Scripts que puedan procesar las bases de datos y convertirlas en documentos 
@@ -7,4 +14,9 @@ que puedan responder las preguntas propuestas en el taller.
 Crea Repositorio GitHub y los Scripts en la carpeta "Scripts"
 
 3. Juan Esteban Plazas Romero / Rol 3
+Como analista cuantitativo, me encargué de toda la parte numérica del taller: saqué
+las tablas de frecuencia, calculé los deciles, medias y varianzas, y medí la relación
+lineal entre el CO₂ y la temperatura. También me aseguré de que todo lo que escribimos en
+las conclusiones estuviera bien respaldado por los datos que nos dieron los cálculos.
+
 4. Alejandro Cotrino Socha / Rol 4
